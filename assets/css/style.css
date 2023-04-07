@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Styling for the search-engine-optimization background card */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Styling for the online-reputation-manegement background card */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Styling for the social-media-marketing background card */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,15 +160,15 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Sizing for the search-engine-optimization image on the card */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* Sizing for the online-reputation-management image on the card */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* Sizing for the social-media-marketing image on the card */
 .social-media-marketing img {
     max-height: 200px;
 }
