@@ -14,12 +14,12 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Controls the size of "Horiseon" in the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Controls the color of "seo" on the word "Horiseon" */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -40,16 +40,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Decides the color for the unordered list in the header */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* For the size of the text in the cards with the images */
 p {
     font-size: 16px;
 }
-
+/* Section for the images and their description */
 .hero {
     height: 800px;
     width: 100%;
